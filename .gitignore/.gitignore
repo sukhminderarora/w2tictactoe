@@ -33,9 +33,9 @@ hs_err_pid*
 /target/
 /*/target/
 # Project files
-.classpath
-.project
-.springBeans
-.settings/
-.externalToolBuilders/
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
 
