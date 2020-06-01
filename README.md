@@ -1,2 +1,2 @@
 # w2tictactoe
-This is tic tac toe console game. Two Players ('X' and '0') play this game
+Tic Tac Toe project for Wave two. It is a console based project. Two players ('X' and '0') play this game by giving inputs in the console.
