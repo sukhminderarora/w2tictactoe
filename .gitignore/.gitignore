@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.class
+*.jar
+*.war
+*.ear
+*.stackdump
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# Target Directory
+/target/
+/*/target/
+# Project files
+.classpath
+.project
+.springBeans
+.settings/
+.externalToolBuilders/
+
